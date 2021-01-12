@@ -1,0 +1,6 @@
+C:\Users\27815\source\repos\NaturalLanguageCalculator\NaturalLanguageCalculator\bin\Debug\NaturalLanguageCalculator.exe.config
+C:\Users\27815\source\repos\NaturalLanguageCalculator\NaturalLanguageCalculator\bin\Debug\NaturalLanguageCalculator.exe
+C:\Users\27815\source\repos\NaturalLanguageCalculator\NaturalLanguageCalculator\bin\Debug\NaturalLanguageCalculator.pdb
+C:\Users\27815\source\repos\NaturalLanguageCalculator\NaturalLanguageCalculator\obj\Debug\NaturalLanguageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\27815\source\repos\NaturalLanguageCalculator\NaturalLanguageCalculator\obj\Debug\NaturalLanguageCalculator.exe
+C:\Users\27815\source\repos\NaturalLanguageCalculator\NaturalLanguageCalculator\obj\Debug\NaturalLanguageCalculator.pdb
